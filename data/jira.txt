@@ -1,0 +1,455 @@
+We use cookies to ensure that we give you the best experience on our website. Click here for more information. GOT IT
+Product 
+Prototyping
+Prototyping tools for web and apps
+UI Design
+Free ui design tools
+UX Design
+Design tools for UX
+Collaboration
+Design better together
+Justinmind 10
+Real-time collaboration experience and more
+Integrations
+Design Systems
+UI Requirements
+API-SDK
+All features
+Examples
+Free resources 
+Wireframing
+Free wireframe tool
+Design Templates
+Free design templates
+Interactive UI components
+Web, iOS, Android and more
+Help Center
+Customer stories
+Blog
+Pricing
+Download Free
+17 User story examples for when the ink runs dry
+PRODUCT MANAGEMENTSeptember 04, 2020
+User story examples and best practices
+Need a little help writing your user stories? Get your team on the right track with these awesome user story examples!
+How do you begin designing a successful app or website that’s going to be a hit with your users? User stories are your best friend when combined with a wireframe tool!
+
+Free design and prototyping tool for web and mobile apps
+Download Free
+
+User stories help us fit our user personas into the context of the product we’re designing. While the bio of a user persona describes their life and woes, the user story describes how they use a feature of your product – in layman’s terms!
+
+In the agile environment, Product Owners, along with UX designers, tend to write user stories on index cards to be passed around the design team and spark conversation. We might also write them up digitally, using Office or Google Docs to be included in the Scrum backlog.
+
+The fact they are written in simple language and devoid of all technical jargon means the design team feels less restricted by technicalities. They have more opportunity to be creative with their feature design ideas. Read on for some great user story examples!
+
+17 practical user story examples
+We’ve lined up a few examples of what user stories might look like in real life.We’ve included both the traditional user story examples written on index cards or sticky notes, as well as digital user story examples that can easily be shared on an online platform.
+
+Some even come in the form of downloadable templates such as Word and Excel files! Let’s dive in:
+
+1. Product Plan user story example
+This user story example Product Plan has five important sections. The first is the Title of the story. For this you might want to give the name of the feature that the story is going to be about, such as “book reviews”.
+
+User story examples - Product Plan
+In the Priority section, you can assign a priority from low to medium or high. It’s important to assign priorities to your backlog items as some features will be in more demand, according to your requirements traceability matrix. Next to Priority is the Estimate section. Here you can state the time you think it will take the team to deliver on this feature. Here, you might assign the relevant number of scrum points.
+
+Next in this user story example, you have the user story section itself, and finally, the acceptance criteria. The acceptance criteria is often written on the back of the index copy, but as this is a two dimensional digital copy, the acceptance criteria is clearly written just beneath as a sort of conclusion. Some may find it extra helpful to have everything included on the same page.
+
+2. Word Doc user story example
+This downloadable user story example comes as a Word document that you can edit. In our opinion, the instructions that come after each clause in the user story, along with those for the acceptance criteria are pretty straightforward to follow.
+
+User story examples - Word Doc
+Why is it important to have these instructions in your user story template? Because if your team has gone a while without writing user stories, or you have to work on many stories, it is good to have these kinds of instructions to act as a prompt. They serve as a useful reminder of the quality of information that should go into each clause.
+
+3. Excel user story example
+What better way to group information in tables than excel? This excel user story example is also a little different in that, in addition to the usual fields, it also gives you the opportunity to fill in other important information.
+
+User story examples - Excel
+The extra fields you can find in this user story example include the user business value, risk calculation, cost of delay and weighted shortest job first. This extra information could also be useful, depending on the type of product features you are working on, or the types of clients or company that you work for.
+
+4. Thematic user story example
+This excel-based, thematic story example, you get a column for priority estimate, acceptance criteria, and also a “Release” column for a release date.
+
+User story examples - Thematic
+The columns in this user story example are well-ordered, with the themes laid out vertically and the column types horizontally. This would be a great template for an epic story that is composed of multiple sub-stories.
+
+Free design and prototyping tool for web and mobile apps
+Download Free
+
+5. Epic user story example
+Speaking of epic user story examples, you might want to take a look at this epic user story template. It provides a great way of grouping substories by their epic stories.
+
+Each epic story feature is listed vertically, with the columns being for the user, the action or want and the benefit. The last column then consists of a vertical arrangement of user stories in subrows wrapped into each cell.
+
+User story examples - Epic
+The way this epic user story is laid out, it manages to show a clear hierarchy between the epics and their multiple, detailed user stories. This makes it very easy to scan and to get a quick overview of all of the features that need to be applied or developed in order to satisfy the user.
+
+6. PowerPoint user story example
+This downloadable user story example from Powerslides shows us another neat way that we can organize our user stories. These cards can be shown in a powerpoint presentation, as well as printed out and distributed.
+
+We also like the clear division of the most important sections: the user story and the user ID, as well as a few sections that differentiates it from other examples.
+
+User story examples - PowerPoint
+In the story section we can see the user story and the acceptance criteria. However, under the user ID section is an area where you can attach a picture of your user persona, along with some checkboxes for the type of feature it focuses on and fields for priority and time estimation.
+
+7. Index card user story example
+What we like about this good old-fashioned index card user story is the simplicity and the way it brings things back to basics. Sometimes you might need to draft up a story quickly for a product feature or a quick overview of features like an epic.
+
+User story examples - index card
+This simple and traditional user story example shows us exactly how easy it can be. The great thing about index cards is that you can also write the acceptance criteria on the back and then the user story card can be passed around the team.
+
+8. User story front-and-back example
+Here we have a traditional front-and-back user story example that reflects how one might go about writing up a user story on an index card. The story shows clearly what the user wants to achieve and why they want to achieve it.
+
+In this case they want to cancel their reservations so as not to lose all of their money should a situation arise.
+
+User story examples - front and back showing acceptance criteria
+On the back of the card, the acceptance criteria are all listed out. It shows all of the functions of the app that need to be taken care of in order for the user’s benefits and the benefits of the business goals to be satisfactorily met.
+
+9. Banking app user story example
+This banking app user story example is a great way of explaining a required feature and why the user needs it in a succinct way.
+
+It gets straight to the point about who the user is and what they need to accomplish. In fact, one of the things that’s great about it is that it even hints at one of the pains the user of a banking app (in this case the credit card holder) might typically feel, such as worrying about their outstanding credit card balance, keeping a good credit score and staying out of the red.
+
+Banking app user story example
+The user in this user story example wants to pay their balance, so the first thing the design team might do is start working on a solution that gives them more or less instant access to their credit card balance. Either it should be the first thing they see when they open the app or there should be a clear option to see the balance of that card that’s just a tap away.
+
+10. Agile user story writing template
+Our next user story example from Whizible is also a template you can download to give you and your team a head start.
+
+This template lets you write a list of multiple user stories on the same card. The horizontal columns at the top display the formulaic sentence of the typical user story, meaning the blanks just need to be filled in.
+
+User story examples - agile template from Whizible
+This can definitely save time when writing out multiple user stories and can help you get straight to the point. For example, at a glance we can glean from this user story example that the content manager has the following story:
+
+“As a content manager, I want to get a weekly report of content analytics so I can monitor the effectiveness of the content writer.”
+
+11. Amazon user story example
+We picked out this Amazon user story example because it gives us an insight into the type of story expected in an agile environment in a large multinational tech company. The interesting thing is, it’s really straightforward. There’s no technical jargon and anyone from any discipline can understand it, which is what user stories are all about.
+
+Amazom user story example
+In this example, the user is registered with them and wants to buy a kindle for their friend. One of the ways the team might respond to this story, depending on who their user persona is, might be to include a gift section on the home screen. It might say something like “The perfect birthday gift”. On the other hand, they might choose to display a message that tells the user they can instantly send gifts as they browse items like the kindle.
+
+Another action they might want to follow up on is to ensure that the customer can add new addresses or choose their current address list swiftly and easily. If you use Amazon you’ll see that this is actually the case!
+
+Free design and prototyping tool for web and mobile apps
+Download Free
+
+12. Backlog of user stories example
+In this example, we get a view of what it looks like to see the user stories listed out in a backlog in an agile product development environment.
+
+User story examples - backlog list
+As we can see here, the backlog items are grouped into order of priority and the tasks are represented with user stories. In each user story, we can note the different scrum points awarded to indicate how much work will be involved when it comes to each feature.
+
+13. BBC Sport user story example
+We like this simple user story example from BBC Sport. What we like about it is the fact that it’s actually conveying a lot of information in just a few words, which is exactly what a good user story is supposed to do.
+
+BBC Sport user story example
+In this example, the BBC were thinking of adding a share button to their sports articles, with the idea that readers can share sports related news and also get their friend’s opinions. It’s complete, conveys a lot of information and the logic is simple. It definitely justifies the need for a share button and points at someone having done quite a bit of research into their user base prior to penning this user story.
+
+14. Easy Agile Workshop user story example
+This user story example from Easy Agile is a little different. Firstly, we noticed that it’s remarkably easy on the eyes.
+
+For starters, each row is alternated between color and white, to easily separate the concepts and facilitate scanning. The left and right sections of the card, i.e. the instructions and the sentence formula are color-coded green and blue.
+
+User story examples - Easy Agile Workshop template
+Next, the instructions on the left of this user story example help serve as a useful prompt with the “Who”, “What” and “Why” categories. They help us think of the story from the business angle, such as “Who are we building it for?”, “Who is the user?” and “What is the intention?” If this example were to be duplicated, it would be incredibly useful and serve as an easy prompt to get started writing user stories.
+
+15. Travel website user story examples
+Here are some user story examples from a travel website. We’re treated to four different stories that give us a glimpse into the various features they might develop to help their user personas achieve their goals.
+
+However, one problem that we see is that three out of the four are incorrect. Well not so much incorrect but rather, incomplete. Why? Because user stories should always state the reason for “why” they want to complete an action.
+
+4 travel website user story examples
+The feature should always provide some benefit to the user. This helps your team give priority to specific features that are going to provide real value and meaning to your users. And happy users means a successful product and a happy business.
+
+The first example talks about hotel reservations. A better more complete version might state:
+
+As a user, I want to reserve a hotel room close to the city center, so I don’t have to travel far every day.
+
+It’s unlikely the user doesn’t have a specific location in mind for the hotel, whether they realize it or not. Adding the “why” part helps you come up with more creative solutions that might help the user, such as showing them hotels, based on their budget that are closer to the city center or to the airport. This might prevent the user having to leave the page and search the hotel addresses on Google maps and checking out distances. Otherwise, it might as well just be any other travel website that doesn’t provide a distinctly useful feature to the user.
+
+The last user story example, however, is complete and useful to the design team; it shows exactly what the user wants – to be able to save past bookings and prevent extra data entry effort. It can also help come up with a better and more rigid acceptance criteria.
+
+16. Agile USA user story example
+Agile USA, with their sticky note user story example for an account manager, succinctly summarizes what should go into this type of deliverable.
+
+This is a rather simple example that shows how vital information to guide the design and development team can easily be summarized on a simple sticky note. What we like about this kind of example is that it’s unintimidating and easily understandable by anyone.
+
+Agile USA user story example
+It lets you follow a simple formula for writing them up, which is necessary for when it comes to creativity, especially when you’re required to crank out story after story of product features on story-writing day.
+
+Free design and prototyping tool for web and mobile apps
+Download Free
+
+17. Introspective user story example
+We decided to include this user story example by Alexander Cowan because it clearly reflects the degree of thought that goes into creating even the most basic user story.
+
+User story writing is not just about coming up with a hypothetical situation involving a hypothetical user. Instead, the information should be based on real research and user personas. This user story example helps us draw on that information by reminding us of the basics of why we’re writing that story in the first place.
+
+User story examples - instrospective template with question prompts
+The prompts in this example are great for helping you come up with a user story that reflects the user persona that you and your team will have invested effort in creating. What we also like about this user persona example is the fact that the prompts also help lead into the acceptance criteria by asking “how will we know if it’s working?”.
+
+The takeaway - user story examples
+The right medium for your user story and the right information to include in it will depend on your organization, the size and scale of your project and the complexity of the features that you’re designing.
+
+Whatever way you choose to convey your user story, the most important thing to bear in mind is research. Once you have done adequate user research and defined your persona profiles, then you’re ready to write up your user stories.
+
+By following the best practices stated in this post and taking inspiration from (or even downloading) the examples and templates shown, you should be well on your way to writing an excellent user story.
+
+ALL-IN-ONE PROTOTYPING TOOL FOR WEB AND MOBILE APPS
+FOUND THIS USEFUL? SHARE WITH
+Joseph Downs
+In-house UX copy-slinger, foodie and classic motoring enthusiast
+PRODUCT
+Prototyping tools
+UI Design tools
+UX Design tools
+Collaboration
+Design Systems
+API & SDK
+All features
+USE CASES
+Web design
+Mobile app design
+VR & AR design
+Specifications
+INTEGRATIONS
+All integrations
+Import from Sketch
+Start from Adobe
+FREE TOOLS
+Wireframe tool
+Mockup tool
+UI kits
+RESOURCES
+Login to account
+Download Justinmind
+Help Center
+Design templates
+Customer Stories
+Learn UX design
+Blog
+COMPANY
+Contact us
+About us
+Brand Assets
+Experts
+© 2023 Justinmind
+Privacy Policy
+Terms of use
+Download Free
+
+Acceptance Criteria for User Stories: Purposes, Formats, Examples, and Best Practices
+Share:Share on FacebookTweet about this on TwitterShare on LinkedInComment:4
+CONTENTS
+What are the acceptance criteria and their role in projects?
+Acceptance criteria main purposes
+Acceptance criteria types and structures
+Ready-to-use acceptance criteria templates
+Roles responsible and how acceptance criteria are created
+Main challenges and best practices of writing acceptance criteria
+Final word
+Reading time: 10 minutes
+Imagine that you ask your development team to enable users to search for a product in an online bookstore by categories. You expect to have a clear interface with category links to click on them (e.g. fantasy, non-fiction, history, etc.) After two weeks of development, you receive a search bar feature where users must type in the category they are interested in, instead of browsing pre-listed categories. While this also works, your initial goal was to expose all available categories and let users explore further.
+
+To prevent such issues from happening and provide a solution that meets the client’s needs and fits market requirements, there has to be high-quality software documentation. Here’s when user stories and acceptance criteria (AC) come into play as they are the main formats of documenting requirements.
+
+While user stories aim at describing what exactly the user wants the system to do, the goal of acceptance criteria is to explain the conditions that a specific user story must satisfy. In this post, we’ll focus on acceptance criteria: We’ll clarify their purposes, types, and how they should be written (providing examples).
+
+
+Acceptance criteria, explained
+
+What are the acceptance criteria and their role in projects?
+Acceptance criteria (AC) are the conditions that a software product must meet to be accepted by a user, a customer, or other systems. They are unique for each user story and define the feature behavior from the end-user’s perspective.
+
+Acceptance criteria - lowest-level functional requirements
+Acceptance criteria are the lowest-level functional requirements
+
+Well-written acceptance criteria help avoid unexpected results in the end of a development stage and ensure that all stakeholders and users are satisfied with what they get.
+
+An important aspect in regard to acceptance criteria is that they have to be defined before the development team starts working on a particular user story. Otherwise, there’s a decent chance the deliverables won’t meet the needs and expectations of a client.
+
+Acceptance criteria main purposes
+Clarifying the stakeholder’s requirements is a high-level goal. To make the purposes of AC clearer, let’s break them down.
+
+Making the feature scope more detailed. AC define the boundaries of user stories. They provide precise details on functionality that help the team understand whether the story is completed and works as expected.
+
+Describing negative scenarios. Your AC may require the system to recognize unsafe password inputs and prevent a user from proceeding further. Invalid password format is an example of a so-called negative scenario when a user does invalid inputs or behaves unexpectedly. AC define these scenarios and explain how the system must react to them.
+
+Setting communication. Acceptance criteria synchronize the visions of the client and the development team. They ensure that everyone has a common understanding of the requirements: Developers know exactly what kind of behavior the feature must demonstrate, while stakeholders and the client understand what’s expected from the feature.
+
+Streamlining acceptance testing. AC are the basis of the user story acceptance testing. Each acceptance criterion must be independently testable and thus have clear pass or fail scenarios. They can also be used to verify the story via automated tests.
+
+Conducting feature evaluations. Acceptance criteria specify what exactly must be developed by the team. Once the team has precise requirements, they can split user stories into tasks that can be correctly estimated.
+
+Since different people can have different points of view and solution ideas regarding one problem, creating a unified vision of how the functionality should be implemented is necessary. That’s exactly what clearly written acceptance criteria do.
+
+Acceptance criteria types and structures
+Based on the initial task and the complexity of requirements, acceptance criteria can be written in different formats, namely:
+
+scenario-oriented (the Given/When/Then template);
+rule-oriented (the checklist template); and
+custom formats.
+Most commonly used, the first and the second formats have very specific structures, so we’ll mainly focus on them. However, you may find that other formats fit your product better so we’ll briefly touch on them as well.
+
+Scenario-oriented acceptance criteria
+As the name suggests, the scenario-oriented format is the acceptance criteria type that comes in the scenario form and illustrates each criterion. It is approached through the Given/When/Then (GWT) sequence that looks like this:
+
+Given some precondition
+When I do some action
+Then I expect some result
+This approach was inherited from behavior-driven development (BDD) and provides a consistent structure that helps testers define when to begin and end testing a particular feature. It also reduces the time spent on writing test cases as the behavior of the system is described upfront.
+
+The acceptance criteria template in this format includes the following statements:
+
+Scenario – the name for the behavior that will be described
+Given – the beginning state of the scenario
+When – specific action that the user makes
+Then – the outcome of the action in “When”
+And – used to continue any of three previous statements
+The acceptance criteria template in the Given/When/Then format
+
+The acceptance criteria template in the Given/When/Then format
+
+When combined, these statements cover all actions that a user takes to complete a task and experience the outcome.
+
+Let’s look at some examples.
+
+Example 1
+
+User story: As a user, I want to be able to recover the password to my account, so that I will be able to access my account in case I forgot the password.
+
+Recovering the password acceptance criteria example
+
+Recovering the password acceptance criteria example
+
+Scenario: Forgot password
+
+Given: The user navigates to the login page
+When: The user selects <forgot password> option
+And: Enters a valid email to receive a link for password recovery
+Then: The system sends the link to the entered email
+Given: The user receives the link via the email
+When: The user navigates through the link received in the email
+Then: The system enables the user to set a new password
+Example 2
+
+User story: As a user, I want to be able to request the cash from my account at an ATM so that I will be able to receive the money from my account quickly and in different places.
+
+"Requesting money from the account at an ATM" acceptance criteria example, scenario 1
+
+“Requesting money from the account at an ATM” acceptance criteria example, scenario 1
+
+Scenario 1: Requesting the cash from a creditworthy account
+
+Given: that the account is creditworthy
+And: the card is valid
+And: the dispenser contains cash
+When: the customer requests the cash
+Then: ensure the account is debited
+And: ensure cash is dispensed
+And: ensure the card is returned
+"Requesting money from the account at an ATM" acceptance criteria example, scenario 2
+
+“Requesting money from the account at an ATM” acceptance criteria example, scenario 2
+
+Scenario 2: Requesting the cash from an overdrawn account
+
+Given: that the account is overdrawn
+And: the card is valid
+When: the customer requests the cash
+Then: ensure the rejection message is displayed
+And: ensure cash isn’t dispensed
+As you can see from the examples, scenario-oriented acceptance criteria can be quite effective in tons of situations. But they can’t be considered a universal solution.
+
+Rule-oriented acceptance criteria format
+In some cases, it’s difficult to fit acceptance criteria into the Given/When/Then structure. For instance, GWT would hardly be useful for the following cases:
+
+You’re working with user stories that describe system-level functionality that needs other methods of quality assurance.
+The target audience for acceptance criteria doesn’t need precise details of the test scenarios.
+GWT scenarios don’t fit the describing design and user experience constraints of a feature. Developers may miss a number of critical details.
+You can address these cases with the rule-oriented AC format.
+
+The rule-oriented form entails that there is a set of rules that describe the behavior of a system. Based on these rules, you can draw specific scenarios.
+
+Usually, criteria composed using this form look like a simple bullet list. Let’s have a look at an example.
+
+Example
+
+User story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.
+
+Basic search interface acceptance criteria
+
+The search field is placed on the top bar
+Search starts once the user clicks “Search”
+The field contains a placeholder with a grey-colored text: “Where are you going?”
+The placeholder disappears once the user starts typing
+Search is performed if a user types in a city, hotel name, street, or all combined
+Search is in English, French, German, and Ukrainian
+The user can’t type more than 200 symbols
+The search doesn’t support special symbols (characters). If the user has typed a special symbol, show the warning message: “Search input cannot contain  special symbols.”
+Other formats
+Most user stories can be covered with two formats mentioned above. However, you can invent your own acceptance criteria given they serve their purposes, are written clearly in plain English, and can’t be misinterpreted. Some teams even use plain text.
+
+For instance, your criteria may be specified as an example of system behavior:
+
+Custom format of acceptance criteria
+A simple set of AC for strong passwords by Mark Levison for agilepainpainrelief.com
+
+This approach provides clear guidelines for password feature testing.
+
+Ready-to-use acceptance criteria templates
+All the above-mentioned formulas for writing acceptance criteria are easy to follow and, what’s more important, effective. They ensure the development team understands the task and the user story will be implemented correctly.
+
+In case you need some downloadable acceptance criteria templates to quickly fill in the necessary information and organize your user stories, the following resources will be helpful.
+
+Klariti offers the MS Excel Acceptance Criteria Log template as a part of the Software Testing Template pack.
+Aha! provides a couple of templates that will capture different user stories and acceptance criteria.
+PowerSlides includes a template in the PPT format with six dynamic designs enabling writing simple user story sentences and acceptance criteria.
+At Stakeholder Map, you can download the fully-editable Excel project requirements template that includes acceptance criteria.
+Now that you have some acceptance criteria examples and templates at hand, let’s deal with who should be in charge of writing these sorts of software requirements.
+
+Roles responsible and how acceptance criteria are created
+Some of the criteria are defined and written by the product owner when he or she creates the product backlog. And the others can be further specified by the team during user stories discussions after sprint planning.
+
+how to create acceptance criteria
+The process starts with user story prioritization and ends with negotiating details with the whole team
+
+There are no strict recommendations to choosing the person responsible for writing the criteria. The client can document them if he or she has ample technical and product documentation knowledge. In this case, the client negotiates the criteria with the team to avoid mutual misunderstandings. Otherwise, the criteria are created by a product owner, business analyst, requirements analyst, or a project manager.
+
+To learn more about software planning and documentation, check our video.
+
+
+Software documentation, explained
+
+Main challenges and best practices of writing acceptance criteria
+Acceptance criteria look as if they are very easy to write. Despite their simplistic formats, the writing poses a challenge for many teams. Let’s have a deeper look at the best practices that help avoid common mistakes.
+
+Document criteria before development. Acceptance criteria have to be documented before the actual development starts. This way, the team will likely capture all customer needs in advance. In the beginning, it’s enough to set the criteria for a small number of user stories to fill the backlogs for two sprints (if you practice Scrum or a similar method). They must be agreed upon by both parties. Then the documented acceptance criteria are used by developers to plan the technical process.
+
+Don’t make AC too narrow.  Acceptance criteria can be way too specific living little to no maneuver options for developers. To avoid this, remember that AC must convey the intent but not a final solution. Moreover, narrow AC may be bereft of multiple user behaviors that aren’t covered.
+
+Keep your criteria achievable. This point closely intersects with the previous one. Effective acceptance criteria define the reasonable minimum chunk of functionality that you’re able to deliver. But in case you succumb to describing all little details, there’s a risk that your team will get stuck with hundreds of small tasks.
+
+Keep AC measurable and not too broad. Broad acceptance criteria make a user story vague. Effective acceptance criteria must outline the scope of work so that the developers can plan and estimate their effort properly.
+
+Avoid technical details. As we mentioned, acceptance criteria must be written in plain English. This will make them clear and easy to understand for everyone: Your stakeholders or managers may not have enough technical background.
+
+Reach consensus. The same problem may be solved differently by a team and stakeholders, depending on their vantage points. Make sure that you’ve communicated your AC to stakeholders and reached a mutual agreement. The same applies to team members. Everyone must review the AC and confirm they understand and agree with each line.
+
+Write testable AC. This will allow testers to verify that all requirements were met. Otherwise, developers won’t understand if the user story is completed.
+
+Follow these tips for guidance on how to phrase your AC.
+
+Write in active voice, first-person. Active voice is when the subject of a sentence performs the action (verb). Sticking to active voice is a common recommendation within the Agile methodology. In this way, AC reflect the actual words the user would say. The use of passive voice may make it unclear who needs what. Instead of writing “Filters should be applied in search”, try providing a more informative explanation “The user should be able to apply a set of filters to find specific items”.
+
+Avoid negative sentences. It is always a good idea to avoid using the adverb “not” as it often makes the requirements unclear and less verifiable. Although, the use of “not” is possible when there’s the need to present unique requirements to the system functionality. Say, “The login form should not be highlighted in red when the user enters incorrect values.”
+
+Write simple, concise sentences. It is better to use several simple sentences instead of one complex one. The fewer needless words and conjunctions like “but,” “and,” “so,” and “as well as” in your acceptance criteria, the more understandable the requirements are for the development teams.
+
+Final word
+Don’t neglect the acceptance criteria as they – being simple and approachable – solve multiple problems at once. They document customer expectations, provide an end-user perspective, clarify requirements, prevent ambiguity, and eventually help quality assurance verify if the development goals were met. Regardless of whether you use Agile methods or not, make sure to choose the best format or experiment with your own ones. Different types of user stories and eventually features may require different formats and testing the new ones that work for you is a good practice.
+
+Subscribe to our newsletter
